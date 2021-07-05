@@ -40,4 +40,3 @@
 ###### Results:
 **After submitting the Quiz, I use a loop in application.py to check if the answers are correct and store the correct and incorrect in another column.**
 **I then generate the results and use Jinja to check: if correct: generate "Well done!" else: generate the correct answer.**
-
